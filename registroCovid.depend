@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1604967934 source:d:\pim c\projeto\main.c
+	<stdio.h>
+	"funcs.h"
+
+1605140992 d:\pim c\projeto\funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1604967934 source:d:\pim c\registrocovid\main.c
+	<stdio.h>
+	"funcs.h"
+
+1605140992 d:\pim c\registrocovid\funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
